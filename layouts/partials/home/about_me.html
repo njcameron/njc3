@@ -1,6 +1,7 @@
-<div class="col-md-3" style="background: grey">
+<div class="col-md-3 col-label">
   <h3>This is about me</h3>
+  {{ .Site.Data.about_me.description }}
 </div>
-<div class="col-md-9" style="background: blue">
-  about text here
+<div class="col-md-9 col-content">
+  {{ .Content }}
 </div>

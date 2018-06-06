@@ -1,0 +1,116 @@
+/**
+ * Fonts.
+ */
+@font-face {
+  font-family: 'qsiovwbzki';
+  src: url('../fonts/qsiovwbzki-semibold-webfont.eot'),
+  url('../fonts/qsiovwbzki-semibold-webfont.woff') format('woff'),
+  url('../fonts/qsiovwbzki-semibold-webfont.ttf') format('truetype'),
+  url('../fonts/qsiovwbzki-semibold-webfont.svg#qsiovwbzki') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  color: var(--text-black);
+  line-height: 1.8;
+  font-size: 18px;
+  font-weight: 300;
+  -webkit-font-smoothing: antialiased;
+}
+
+p {
+  margin: 0 0 17px;
+  line-height: 1.3em;
+}
+
+h1, h2, h3, h4 {
+  font-weight: 600;
+  line-height: 1.2;
+  font-family: qsiovwbzki;
+  letter-spacing: -2px;
+  -webkit-font-smoothing: antialiased;
+}
+
+h2 {
+  font-size: 1.8em;
+}
+
+h3 {
+  font-size: 1.5em;
+  letter-spacing: -1px;
+}
+
+h5 {
+  font-size: 1.15em;
+}
+
+h6 {
+  font-size: 0.8em;
+  font-weight: 700;
+}
+
+blockquote {
+  font-family: qsiovwbzki;
+  font-size: 1.4em;
+  line-height: 1.5em;
+  border-left: 5px solid blue;
+}
+
+.undertitle {
+  font-size: 1.1em;
+  font-weight: 200;
+  -webkit-font-smoothing: antialiased;
+}
+
+.teaser-text {
+  font-size: 1.05em;
+  font-weight: 200;
+  -webkit-font-smoothing: antialiased;
+}
+
+.tooltip {
+  font-size: 0.85em;
+}
+
+/**
+ * Typography iphone 6 / larger mobile screen
+ */
+@media (max-width: 767px) {
+  h1, .big_banner_text {
+    font-size: 3em;
+  }
+
+  h2 {
+    font-size: 1.8em;
+  }
+
+  h3 {
+    font-size: 1.5em;
+  }
+
+  .undertitle {
+    font-size: 1.05em;
+  }
+}
+
+/**
+ * Typography iphone 5 / smaller mobile screen
+ */
+@media (max-width: 350px) {
+  h1, .big_banner_text {
+    font-size: 2.5em;
+  }
+
+  h2 {
+    font-size: 1.4em;
+  }
+
+  h3 {
+    font-size: 1.2em;
+  }
+
+  .undertitle {
+    font-size: 0.95em;
+  }
+}
