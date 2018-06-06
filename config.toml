@@ -2,3 +2,35 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Neil Cameron"
 theme = "bootstrap"
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About me"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/#about"
+    weight = 1
+
+  [[menu.main]]
+    name = "How I can help"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/#help"
+    weight = 2
+
+  [[menu.main]]
+    name = "Recent work"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/#recent"
+    weight = 3
+
+  [[menu.main]]
+    name = "Blog"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/#blog"
+    weight = 4
+
+  [[menu.main]]
+    name = "Contact"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/#contact"
+    weight = 5
