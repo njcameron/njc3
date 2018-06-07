@@ -24,7 +24,7 @@ p {
   line-height: 1.3em;
 }
 
-h1, h2, h3, h4 {
+h1, h2, h3, h4, .title-first-name, .title-last-name {
   font-weight: 600;
   line-height: 1.2;
   font-family: qsiovwbzki;
@@ -113,4 +113,18 @@ blockquote {
   .undertitle {
     font-size: 0.95em;
   }
+}
+
+.title-first-name, .title-last-name {
+  font-size: 4em;
+  border-bottom: 8px solid var(--yellow);
+}
+
+
+.title-tagline {
+  font-size: 1.5em;
+  margin-top: 0.5em;
+  font-family: sans-serif;
+  font-weight: 600;
+  letter-spacing: -1px;
 }

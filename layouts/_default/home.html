@@ -1,27 +1,29 @@
 {{ define "main" }}
 
-<div class="row row-even">
-    {{ partial "home/intro.html" . }}
-</div>
+<div id="home-sections">
+    <div class="row row-even" id="intro">
+        {{ partial "home/intro.html" . }}
+    </div>
 
-<div class="row row-odd" id="about">
-    {{ partial "home/about_me.html" . }}
-</div>
+    <div class="row row-odd" id="about">
+        {{ partial "home/about_me.html" . }}
+    </div>
 
-<div class="row row-even" id="help">
-    {{ partial "home/how_help.html" . }}
-</div>
+    <div class="row row-even" id="help">
+        {{ partial "home/how_help.html" . }}
+    </div>
 
-<div class="row row-odd" id="recent">
-    {{ partial "home/recent.html" . }}
-</div>
+    <div class="row row-odd" id="recent">
+        {{ partial "home/recent.html" . }}
+    </div>
 
-<div class="row row-even" id="blog">
-    {{ partial "home/blog.html" . }}
-</div>
+    <div class="row row-even" id="blog">
+        {{ partial "home/blog.html" . }}
+    </div>
 
-<div class="row row-odd" id="contact">
-    {{ partial "home/contact.html" . }}
+    <div class="row row-odd" id="contact">
+        {{ partial "home/contact.html" . }}
+    </div>
 </div>
 
 {{ end }}

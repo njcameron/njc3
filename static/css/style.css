@@ -27,6 +27,22 @@
   text-align: right;
 }
 
+#intro .col-label,
+#intro .col-content {
+  padding: 3em 1em;
+}
+
+#home-sections .col-label,
+#home-sections .col-content {
+  padding: 2em 1em;
+}
+
+#pic-of-neil {
+  border-radius: 50%;
+  width: 10em;
+  filter: grayscale(100%);
+}
+
 /**
  * Contact me.
  */
