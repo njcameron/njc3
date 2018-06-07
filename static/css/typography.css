@@ -24,7 +24,7 @@ p {
   line-height: 1.3em;
 }
 
-h1, h2, h3, h4, .title-first-name, .title-last-name {
+h1, h2, h3, h4, .title-name {
   font-weight: 600;
   line-height: 1.2;
   font-family: qsiovwbzki;
@@ -115,16 +115,24 @@ blockquote {
   }
 }
 
-.title-first-name, .title-last-name {
-  font-size: 4em;
-  border-bottom: 8px solid var(--yellow);
+.title-name-container {
+  width: 427px;
+  clear: both;
+  margin-top:2em;
+  text-align: right;
 }
 
+.title-name {
+  font-size: 4em;
+  border-bottom: 8px solid var(--yellow);
+  line-height: 65px;
+}
 
 .title-tagline {
-  font-size: 1.5em;
-  margin-top: 0.5em;
+  font-size: 1.25em;
+  margin-top: 0.25em;
   font-family: sans-serif;
   font-weight: 600;
   letter-spacing: -1px;
+  color: var(--dark-grey);
 }
