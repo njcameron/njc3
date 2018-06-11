@@ -2,16 +2,18 @@
   <h3>blog</h3>
 </div>
 <div class="col-md-9 col-content">
-  {{ $truncate := default true .Site.Params.truncate }}
-  {{ range .Paginator.Pages }}
+  <div class="front-content-wrapper">
+    {{ $truncate := default true .Site.Params.truncate }}
+    {{ range .Paginator.Pages }}
 
-  {{ if $truncate }}
-  {{ .Render "summary" }}
-  {{ else }}
-  {{ .Render "content" }}
-  {{ end }}
+    {{ if $truncate }}
+    {{ .Render "summary" }}
+    {{ else }}
+    {{ .Render "content" }}
+    {{ end }}
 
-  {{ end }}
+    {{ end }}
 
-  {{ partial "paginator" . }}
+    {{ partial "paginator" . }}
+  </div>
 </div>

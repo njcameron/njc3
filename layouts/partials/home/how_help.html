@@ -2,9 +2,14 @@
   <h3>How I can help</h3>
 </div>
 <div class="col-md-9 col-content">
-  <ul>
-    {{ range $.Site.Data.help.help }}
-      <li>{{ . }}</li>
-    {{ end }}
-  </ul>
+  <div class="front-content-wrapper">
+    <div id="how">
+      {{ range $.Site.Data.help }}
+        <div class="how-item">
+          <h4>{{ .Title }}</h4>
+          <div>{{ .Description }}</div>
+        </div>
+      {{ end }}
+    </div>
+  </div>
 </div>

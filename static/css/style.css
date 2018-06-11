@@ -25,16 +25,27 @@
 
 .col-label {
   text-align: right;
+  padding-top: 2em;
+  padding-right: 2em;
+}
+
+.col-content {
+  padding-top: 2em;
+  padding-left: 2em;
 }
 
 #intro .col-label,
 #intro .col-content {
-  padding: 3em 1em;
+  padding: 3em auto;
+}
+
+.front-content-wrapper {
+  max-width: 900px;
 }
 
 #home-sections .col-label,
 #home-sections .col-content {
-  padding: 2em 1em;
+  padding: 2em auto;
 }
 
 #pic-of-neil {
@@ -81,8 +92,51 @@
   transition: all 0.25s;
 }
 
-.social-icons a:hover, .social-icons-small a:hover {
+.social-iconss a:hover, .social-icons-small a:hover {
   border-color: #ffe319;
   color: #ffe319;
   text-decoration: none;
+}
+
+.blur {
+  -webkit-filter: blur(5px);
+}
+
+/*how i can help*/
+#how .how-item {
+  float: left;
+  margin-right: 1em;
+  width: 31%;
+}
+
+#how h4 {
+  border-left: 7px solid var(--yellow);
+  padding-left: 1em;
+}
+
+/* Work */
+#work .work-item {
+  float: left;
+  margin-right: 1em;
+  width: 48%;
+}
+
+#work .work-item img {
+  width: 100%;
+  transition: all 300ms ease;
+}
+
+#work .layer {
+  position: absolute;
+  background: rgba(255, 255, 255, 0.6);
+  width: 100%;
+  height: 100%;
+  top: 100%;
+  left: 100%;
+  overflow: hidden;
+  text-align: center;
+  color: #333333;
+  padding-top: 25%;
+  display: none;
+
 }
