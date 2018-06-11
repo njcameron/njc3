@@ -3,9 +3,9 @@
 </div>
 <div class="col-md-9 col-content">
   <div class="front-content-wrapper">
-    <div id="how">
+    <div id="how" class="row">
       {{ range $.Site.Data.help }}
-        <div class="how-item">
+        <div class="col-md-4 how-item">
           <h4>{{ .Title }}</h4>
           <div>{{ .Description }}</div>
         </div>

@@ -73,6 +73,28 @@ blockquote {
   font-size: 0.85em;
 }
 
+.title-name-container {
+  width: 427px;
+  clear: both;
+  margin-top:2em;
+  text-align: right;
+}
+
+.title-name {
+  font-size: 4em;
+  border-bottom: 8px solid var(--yellow);
+  line-height: 65px;
+}
+
+.title-tagline {
+  font-size: 1.25em;
+  margin-top: 0.25em;
+  font-family: sans-serif;
+  font-weight: 600;
+  letter-spacing: -1px;
+  color: var(--dark-grey);
+}
+
 /**
  * Typography iphone 6 / larger mobile screen
  */
@@ -91,6 +113,15 @@ blockquote {
 
   .undertitle {
     font-size: 1.05em;
+  }
+
+  .title-name-container {
+    width: 100%;
+  }
+
+  .title-name {
+    font-size: 3em;
+    line-height: 50px;
   }
 }
 
@@ -113,26 +144,4 @@ blockquote {
   .undertitle {
     font-size: 0.95em;
   }
-}
-
-.title-name-container {
-  width: 427px;
-  clear: both;
-  margin-top:2em;
-  text-align: right;
-}
-
-.title-name {
-  font-size: 4em;
-  border-bottom: 8px solid var(--yellow);
-  line-height: 65px;
-}
-
-.title-tagline {
-  font-size: 1.25em;
-  margin-top: 0.25em;
-  font-family: sans-serif;
-  font-weight: 600;
-  letter-spacing: -1px;
-  color: var(--dark-grey);
 }
