@@ -29,10 +29,8 @@
     {{ end }}
 
     {{ block "body" . }}
-    <div class="container-fluid">
-          {{ block "main" . }}
-          {{ end }}
-    </div>
+    {{ block "main" . }}
+    {{ end }}
     {{ end }}
 
     {{ block "footer" . }}

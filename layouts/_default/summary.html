@@ -1,13 +1,18 @@
-<article class="blog-post">
-    <header>
-        <h2 class="blog-post-title">
-            <a class="text-dark" href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
-        </h2>
-        {{ partial "post-date" . }}
-        {{ partial "post-tags" . }}
-        {{ partial "post-categories" . }}
-    </header>
-    {{ .Summary }}
-    <p></p>
-    <a href="{{ .RelPermalink }}">{{ i18n "readMore" }}</a>
+<article class="blog-thumbnail-wrapper">
+    {{ $resource := .Resources.GetMatch "thumb" }}
+    {{ $image := $resource.Fill "350x220" }}
+    <div class="blog-thumbnail-wrapper-img">
+        <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
+        <div class="info-layer">
+            <a href="{{ .RelPermalink }}" class="button bold-subtitle">Read</a>
+        </div>
+    </div>
+    <div class="caption">
+        <h3 class="">{{ .Title }}</h3>
+        <h6 class="term">{{ partial "post-tags" . }}</h6>
+        <div class="summary">
+            <p>{{ .Params.summary }}</p>
+        </div>
+    </div>
 </article>
+

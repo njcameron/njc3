@@ -5,7 +5,7 @@
   <div class="front-content-wrapper">
     <div id="work" class="row">
       {{ range $.Site.Data.case_studies }}
-        <div class="col-md-6 work-item">
+        <div class="col-sm-6 col-md-6 work-item">
           <a data-toggle="modal" data-target="#Modal_{{md5 .Title}}" href="javascript:void(0)">
             <img src="{{ .Site.BaseURL }}images/cases/{{.Image}}"/>
             <div class="info-layer">
@@ -15,27 +15,27 @@
           </a>
 
           <div class="modal fade" id="Modal_{{md5 .Title}}" tabindex="-1" role="dialog" aria-labelledby="Modal_{{md5 .Title}}_Label" aria-hidden="true">
-              <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
-                <div class="modal-content">
-                  <div class="modal-header">
-                    <h5 class="modal-title" id="Modal_{{md5 .Title}}_Label">{{ .Title }}</h5>
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                      <span aria-hidden="true">&times;</span>
-                    </button>
-                  </div>
-                  <div class="modal-body">
-                    <div class="row">
-                      <div class="col-md-6">
-                        {{ markdownify .Body }}
-                      </div>
-                      <div class="col-md-6">
-                        {{ markdownify .Did }}
-                      </div>
+            <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="Modal_{{md5 .Title}}_Label">{{ .Title }}</h5>
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+                </div>
+                <div class="modal-body">
+                  <div class="row">
+                    <div class="col-md-6">
+                      {{ markdownify .Body }}
+                    </div>
+                    <div class="col-md-6">
+                      {{ markdownify .Did }}
                     </div>
                   </div>
                 </div>
               </div>
             </div>
+          </div>
       </div>
       {{ end }}
     </div>

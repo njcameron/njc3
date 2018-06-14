@@ -3,17 +3,13 @@
 </div>
 <div class="col-md-9 col-content">
   <div class="front-content-wrapper">
-    {{ $truncate := default true .Site.Params.truncate }}
-    {{ range .Paginator.Pages }}
-
-    {{ if $truncate }}
-    {{ .Render "summary" }}
-    {{ else }}
-    {{ .Render "content" }}
-    {{ end }}
-
-    {{ end }}
-
-    {{ partial "paginator" . }}
+    <div id="blog" class="row">
+        {{ range .Paginator.Pages }}
+          <div class="col-sm-6 col-md-4 blog-card">
+            {{ .Render "summary" }}
+          </div>
+        {{ end }}
+      {{ partial "paginator" . }}
+    </div>
   </div>
 </div>

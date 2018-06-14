@@ -2,6 +2,14 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Neil Cameron"
 theme = "bootstrap"
+[imaging]
+  resampleFilter = "box"
+  quality = 90
+  anchor = "smart"
+
+[Params]
+	DateForm = "12 Jan 2006"
+
 [menu]
 
   [[menu.main]]

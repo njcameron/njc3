@@ -1,30 +1,56 @@
 {{ define "main" }}
-SINGLE POST
-<header>
-    <h2 class="blog-post-title">
-        <a class="text-dark" href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
-    </h2>
-    {{ partial "post-date" . }}
-    {{ partial "post-tags" . }}
-    {{ partial "post-categories" . }}
-    <hr>
-</header>
-<article class="blog-post">
-    {{ .Content }}
+{{ $resource := .Resources.GetMatch "thumb" }}
+{{ $big_image := $resource.Fill "1800x800 Top" }}
+{{ $med_image := $resource.Fill "1200x800 Top" }}
+{{ $small_image := $resource.Fill "600x350 Top" }}
 
-    {{ if .IsTranslated }}
-      <h4>{{ i18n "translations" }}</h4>
-      <ul>
-        {{ range .Translations }}
-        <li>
-          <a href="{{ .RelPermalink }}">{{ .Lang }}: {{ .Title }}</a>
-        </li>
+<div class="container-fluid">
+  <div class="row">
+    <div class="blog-post-image">
+      <picture>
+        <source media="(min-width: 1200px)" srcset="{{ $big_image.RelPermalink }}">
+        <source media="(min-width: 768px)" srcset="{{ $med_image.RelPermalink }}">
+        <source media="(min-width: 576px)" srcset="{{ $small_image.RelPermalink }}">
+
+        <img src="{{ $big_image.RelPermalink }}">
+      </picture>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="blog-post-container col-md-9 col-sm-12">
+      <header>
+        <h1>{{ .Title | markdownify }}</h1>
+        <h5>{{ partial "post-date" . }} // {{ partial "post-tags" . }}</h5>
+      </header>
+      <article class="blog-post">
+        <div class="undertitle">
+          {{ .Params.standfirst | markdownify }}
+        </div>
+        {{ .Content }}
+
+        {{ if .IsTranslated }}
+        <h4>{{ i18n "translations" }}</h4>
+        <ul>
+          {{ range .Translations }}
+          <li>
+            <a href="{{ .RelPermalink }}">{{ .Lang }}: {{ .Title }}</a>
+          </li>
+          {{ end }}
+        </ul>
         {{ end }}
-      </ul>
-    {{ end }}
 
-    {{ partial "related" . }}
+        {{ partial "related" . }}
 
-</article>
+      </article>
+    </div>
+  </div>
+</div>
+
+
+
+
 
 {{ end }}

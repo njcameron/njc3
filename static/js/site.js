@@ -1,6 +1,6 @@
 $( document ).ready(function() {
   // Set blur on image on mouse over.
-  var hover_blur = $('.work-item');
+  var hover_blur = $('.work-item, .blog-thumbnail-wrapper-img');
   // Set blur on image on mouse over.
   hover_blur.mouseenter(function() {
       $(this).find('img').addClass('blur');
