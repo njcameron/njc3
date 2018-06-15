@@ -15,4 +15,4 @@ My perpetual curiosity is reflected in my academic background: BA in Thai Langua
 
 **Work with me**: I typically work on short-term consulting engagements to help organisations release a key product, plan out a roadmap or research and solve a strategic technology issue.
 
-To get in touch ping me an email or connect on LinkedIn. Although I'm based in London, I'm open to working world-wide. My CV is available to download here.
+To get in touch ping me an [email](mailto:neil@neilcameron.me) or connect on [LinkedIn](https://www.linkedin.com/in/neiljcameron/). Although I'm based in London, I'm open to working world-wide. My CV is available to [download here](/files/Neil_Cameron_tech_CV.pdf).
