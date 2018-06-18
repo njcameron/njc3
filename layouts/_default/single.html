@@ -27,7 +27,9 @@
       </header>
       <article class="blog-post">
         <div class="undertitle">
-          {{ .Params.standfirst | markdownify }}
+          <p>
+            {{ .Params.standfirst | markdownify }}
+          </p>
         </div>
         {{ .Content }}
 
@@ -48,7 +50,7 @@
     </div>
   </div>
 </div>
-
+<div class="go-back"><a class="small button" href="/">Go back</a></div>
 
 
 

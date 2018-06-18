@@ -47,12 +47,12 @@
  */
 .social-icons {
   margin: auto;
-  margin-top: 25px;
   text-align: center;
   min-height: 60px;
 }
 
 .social-icons-small {
+  margin-top: 0.25em;
 }
 
 .social-icons a {
@@ -82,7 +82,7 @@
   transition: all .25s;
 }
 
-.social-iconss a:hover, .social-icons-small a:hover {
+.social-icons a:hover, .social-icons-small a:hover {
   border-color: var(--yellow);
   color: var(--yellow);
   text-decoration: none;
@@ -104,7 +104,6 @@
 /* Work */
 #work .work-item {
   height: 350px;
-  border: 1px solid red;
 }
 
 #work .work-item img {
@@ -131,7 +130,7 @@
 
 .info-layer {
   position: absolute;
-  background: rgba(255,255,255,.15);
+  background-color: rgba(255,255,255,0.33);
   width: 100%;
   height: 100%;
   top: 0;
@@ -142,32 +141,17 @@
   display: none;
 }
 
-.modal-lg {
-  max-width: 75%;
+a .info-layer {
+  text-decoration: none;
+  color: var(--text-black);
 }
 
-@media (max-width: 767px) {
-  .modal {
-    padding-right: 0 !important;
-  }
-  .modal-dialog {
-    width: 100%;
-    height: 100%;
-    margin: 0;
-    padding: 0;
-    max-width: none;
-  }
+.work-item .info-layer {
+  padding-top: 30%;
+}
 
-  .modal-content {
-    height: auto;
-    min-height: 100%;
-    border-radius: 0;
-    border: none;
-  }
-
-  .col-label {
-    padding-right: 1em;
-  }
+.modal-lg {
+  max-width: 75%;
 }
 
 /* Blog */
@@ -231,13 +215,83 @@
 .blog-post-image {
   height: 800px;
   margin-top: 0;
-  background-size: 100%;
-  background-repeat: no-repeat;
   width: auto;
 }
 
-.blog-post-image img, .blog-post-image picture {
+.blog-post-image img,
+.blog-post-image picture {
   max-width: 100%;
   overflow: hidden;
   margin: auto;
+}
+
+.go-back {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+}
+
+.go-back .button {
+  padding: 5px 15px;
+  font-size: .75em;
+  border: 2px solid var(--text-black);
+}
+
+@media (max-width: 767px) {
+  header {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 100;
+  }
+
+  #work .work-item {
+    height: 200px;
+    overflow: hidden;
+  }
+  #work .work-item img {
+    margin: 0 auto;
+    max-height: 120%;
+    vertical-align: middle;
+  }
+
+  .modal {
+    padding-right: 0 !important;
+  }
+  .modal-dialog {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    max-width: none;
+  }
+
+  .modal-content {
+    height: auto;
+    min-height: 100%;
+    border-radius: 0;
+    border: none;
+  }
+
+  .col-label {
+    padding: 1em 2em;
+  }
+
+  .col-label h3 {
+    margin-bottom: 0;
+  }
+
+  .blog-post-image {
+    height: auto;
+  }
+
+  .blog-post-container {
+    margin-top: 0px;
+    padding: 1em 1.5em;
+  }
+
+  .go-back {
+    position: relative;
+    margin-top: 30px;
+  }
 }

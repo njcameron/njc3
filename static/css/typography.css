@@ -13,9 +13,9 @@
 
 body {
   color: var(--text-black);
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif  ;
   line-height: 1.3em;
-  font-size: 18px;
-  font-weight: 300;
+  font-size: 17px;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -32,7 +32,6 @@ h1, h2, h3, h4, .title-name {
   font-weight: 600;
   line-height: 1.2;
   font-family: qsiovwbzki;
-
   -webkit-font-smoothing: antialiased;
 }
 
@@ -51,6 +50,7 @@ h3 {
 
 h5 {
   font-size: 1.15em;
+  margin-top: 0.25em;
 }
 
 h6 {
@@ -62,12 +62,22 @@ blockquote {
   font-family: qsiovwbzki;
   font-size: 1.4em;
   line-height: 1.5em;
-  border-left: 5px solid blue;
+  border-left: 5px solid var(--yellow);
+  padding: 10px 20px;
+  margin: 0 0 20px;
+}
+
+blockquote p {
+  margin-bottom: 0;
+}
+
+.blog-post strong {
+  display: block;
 }
 
 .undertitle {
   font-size: 1.1em;
-  font-weight: 200;
+  font-weight: 600;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -84,19 +94,20 @@ blockquote {
 .title-name-container {
   width: 427px;
   clear: both;
-  margin-top:2em;
+  margin-top: 2em;
   text-align: right;
 }
 
 .title-name {
   font-size: 4em;
   border-bottom: 8px solid var(--yellow);
-  line-height: 65px;
+  line-height: 55px;
+  padding-bottom: 5px;
 }
 
 .title-tagline {
   font-size: 1.25em;
-  margin-top: 0.25em;
+  margin-top: 0.5em;
   font-family: sans-serif;
   font-weight: 600;
   letter-spacing: -1px;
@@ -107,8 +118,8 @@ blockquote {
  * Typography iphone 6 / larger mobile screen
  */
 @media (max-width: 767px) {
-  h1, .big_banner_text {
-    font-size: 3em;
+  h1 {
+    font-size: 2.2em;
   }
 
   h2 {
@@ -125,12 +136,9 @@ blockquote {
 
   .title-name-container {
     width: 100%;
+    margin-top: 0;
   }
 
-  .title-name {
-    font-size: 3em;
-    line-height: 50px;
-  }
 }
 
 /**

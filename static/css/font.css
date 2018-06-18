@@ -36,3 +36,8 @@
 .icon-linkedin:before {
   content: "\f0e1";
 }
+
+::selection {
+  background: var(--yellow);
+  color: #323232;
+}
