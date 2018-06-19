@@ -24,11 +24,30 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-close:before {
+  content: "\f00d";
+}
+.icon-remove:before {
+  content: "\f00d";
+}
+.icon-times:before {
+  content: "\f00d";
+}
 .icon-twitter:before {
   content: "\f099";
 }
 .icon-github:before {
   content: "\f09b";
+}
+.icon-bars:before {
+  content: "\f0c9";
+}
+.icon-navicon:before {
+  content: "\f0c9";
+  font-size: 1.5em;
+}
+.icon-reorder:before {
+  content: "\f0c9";
 }
 .icon-envelope:before {
   content: "\f0e0";

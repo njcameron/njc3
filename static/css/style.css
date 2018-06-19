@@ -161,7 +161,7 @@ a .info-layer {
   line-height: 1.42857143;
   background-color: #fff;
   border: 1px solid var(--light-grey);
-  height: 20em;
+  height: 21em;
 }
 
 .blog-thumbnail-wrapper-img {
@@ -243,6 +243,17 @@ a .info-layer {
     top: 10px;
     right: 10px;
     z-index: 100;
+  }
+
+  ul.navbar-nav {
+    padding: 2em;
+    background-color: #f4f4f4;
+    font-weight: bold;
+  }
+
+  ul.navbar-nav a {
+    color: var(--text-black);
+
   }
 
   #work .work-item {
