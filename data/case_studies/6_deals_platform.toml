@@ -1,16 +1,10 @@
-Title = "Financial services"
-Description = "did stuff"
+Title = "Financial services intranet"
+Description = "Collaborative working tool"
 Image = 'fs_in.jpg'
-Body = """Earthport is a rapidly growing fintech business that needed a
-information management system to help scale the business. I acted as a
-business analyst, developer and project manager to run a fully agile process.
- I worked with all departments in the business to analyse, document and build features.
-
- The majority of the work involved creating the complex data model,
- migrating content from legacy databases and creating various interfaces for
- creating and consuming the content."""
+Body = """Architected, project managed and acted as tech lead on five person project over 9 months to develop an advanced intranet for finance professionals to log M&A deals, work collaboratively and identify experts to work on new deals. Project involved data migration, data sanitisation, advanced apache solr and rich javascript interfaces. This project was undertaken as part of a team during my time at Cameron & Wilding."""
 Did = """
- * Bit of this
- * Bit of that
- * Bit of something
+* Apache Solr powered deal finder for $75bn worth of deals.
+* 600 professionals across 40 self managed groups (created with Organic Groups).
+* Interactive Special Interest Groups for sharing news and documents.
+* Dynamic PDF deal certificate generator.
 """

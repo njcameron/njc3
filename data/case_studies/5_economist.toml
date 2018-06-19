@@ -1,16 +1,10 @@
 Title = "Economist Espresso"
-Description = "did stuff"
+Description = "Headless Drupal for iOS and Android"
 Image = 'espresso.jpg'
-Body = """Earthport is a rapidly growing fintech business that needed a
-information management system to help scale the business. I acted as a
-business analyst, developer and project manager to run a fully agile process.
- I worked with all departments in the business to analyse, document and build features.
-
- The majority of the work involved creating the complex data model,
- migrating content from legacy databases and creating various interfaces for
- creating and consuming the content."""
+Body = """I designed and built a publishing platform for the Economist's daily news app, [Espresso](http://www.economist.com/digital). Worked with editorial and technical stakeholders to create user stories, run an agile development process and develop the backend functionality. The CMS integrated with finance APIs to pull in financial data and also acted as the end point for a freestanding app. Used Pantheon and AWS to create a robust infrastructure that support hundreds of thousands of daily downloads. This project was undertaken as part of a team during my time at Cameron & Wilding."""
 Did = """
- * Bit of this
- * Bit of that
- * Bit of something
+* Ran agile process, directly liaising with senior editorial staff and technical product manager.
+* Worked in co-location with iOS and Android dev teams.
+* Publishing platform supports three global editorial teams creating content around the clock.
+* The final API supports multiple end points for content, advertisements and financial data.
 """
