@@ -5,7 +5,8 @@ draft: false
 summary: "How to use Composer to manage your next Drupal 7 project."
 standfirst: "Composer brings dependency management for Drupal 7 kicking and screaming into 2015, this is how you can effectively use it on your next project."
 
-tag: Drupal
+tag: 
+- Drupal
 
 resources:
 - name: thumb

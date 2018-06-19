@@ -5,7 +5,8 @@ draft: false
 summary: "Why the adoption of Drupal 8 is going to be fasted we've seen yet."
 standfirst: "There are three key reasons why Drupal 8 adoption will look very different to Drupal 7 and 6 adoption: Core, Decoupling and Symfony."
 
-tag: Drupal
+tag: 
+- Drupal
 
 resources:
 - name: thumb

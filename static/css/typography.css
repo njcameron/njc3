@@ -114,6 +114,10 @@ blockquote p {
   color: var(--dark-grey);
 }
 
+.tag {
+  color: var(--dark-grey);
+}
+
 /**
  * Typography iphone 6 / larger mobile screen
  */

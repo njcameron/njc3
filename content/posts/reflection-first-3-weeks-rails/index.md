@@ -1,11 +1,12 @@
 ---
-title: "Reflections on my first three weeks using Ruby on Rails"
+title: "Reflections on my first three weeks using Rails"
 date: 2016-01-25T17:02:09+01:00
 draft: false
 summary: "The good the bad and the ugly of using of Ruby on Rails for the Twivel MVP."
 standfirst: "One of my goals for 2016 is to use more non-drupal stuff and expand my tech horizons. This is how the first three weeks have played out."
 
-tag: "Rails"
+tag: 
+- "Rails"
 
 resources:
 - name: thumb

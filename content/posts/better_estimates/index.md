@@ -5,7 +5,8 @@ draft: false
 summary: "Task estimation is fundamental to a well run product process, here's how you can do it better."
 standfirst: "Estimates are hard to get right. Remember that time you had to clean the house, you thought you could get it done in “an hour or so” and it took half a day?"
 
-tag: Agile
+tag: 
+- Agile
 
 resources:
 - name: thumb

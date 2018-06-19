@@ -5,7 +5,8 @@ draft: false
 summary: "The new neilcameron.me and Neil Cameron goes live."
 standfirst: "Welcome to my new home on the web! It's been a while since I've had my own site, here's what's coming up next."
 
-tag: neilcameron.me
+tag: 
+- neilcameron.me
 
 resources:
 - name: thumb

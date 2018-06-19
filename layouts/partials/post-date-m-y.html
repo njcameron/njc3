@@ -1,0 +1,5 @@
+{{ $dateFormat := default "Jan 2006" (index .Site.Params "date_format") }}
+
+{{ if not .Date.IsZero }}
+    {{ .Date.Format $dateFormat }}
+{{ end }}

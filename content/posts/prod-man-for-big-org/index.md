@@ -5,7 +5,8 @@ draft: false
 summary: "Large companies can learn a lot from startups when it comes to product mangement."
 standfirst: "I have worked in both large, established companies and small, scrappy startups. Here are three of my favourite product management tactics large companies can learn from startups."
 
-tag: "Product management"
+tag: 
+- "Product management"
 
 resources:
 - name: thumb
