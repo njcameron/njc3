@@ -1,16 +1,14 @@
 Title = "IkonoTV"
-Description = "did stuff"
+Description = "Tech strategy and development"
 Image = 'ikono_live.jpg'
-Body = """Earthport is a rapidly growing fintech business that needed a
-information management system to help scale the business. I acted as a
-business analyst, developer and project manager to run a fully agile process.
- I worked with all departments in the business to analyse, document and build features.
+Body = """IkonoTV is a Berlin based art video company which broadcasts a 24 / 7 stream and provides a large and diverse catalog of on demand content. After six months as a Twivel customer IkonoTV engaged me as an interim CTO to help them with a range of technology opportunites and problems.
 
- The majority of the work involved creating the complex data model,
- migrating content from legacy databases and creating various interfaces for
- creating and consuming the content."""
+As part of my work with them I helped migrate the organisation on to Google Apps, assess the SmartTV technology landscape and create a 24 month technology and roadmap.
+
+IkonoTV sponsored the development of a React based web app and payment and subcriptions for Twivel.
+"""
 Did = """
- * Bit of this
- * Bit of that
- * Bit of something
+ * Ran research and vendor selection process for video hosting, transcoding and streaming.
+ * Planned out tech and product roadmap covering rollout to Smart TVs, payments and subscriptions and analytics to power revenue share based on view count.
+ * Developed React based web app which consumed Twivel API.
 """

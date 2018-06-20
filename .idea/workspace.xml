@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c53dd74f-a74e-4764-b044-aa0fedd6e255" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/data/case_studies/5_economist.toml" beforeDir="false" afterPath="$PROJECT_DIR$/data/case_studies/5_economist.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/case_studies/6_deals_platform.toml" beforeDir="false" afterPath="$PROJECT_DIR$/data/case_studies/6_deals_platform.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/case_studies/2_empowerrd.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/case_studies/1_empowerrd.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/case_studies/2_wellcome.toml" beforeDir="false" afterPath="$PROJECT_DIR$/data/case_studies/1_wellcome.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/case_studies/3_ikonotv.toml" beforeDir="false" afterPath="$PROJECT_DIR$/data/case_studies/3_ikonotv.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/cases/glass.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,11 +21,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="5_economist.toml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/data/case_studies/5_economist.toml">
+      <file leaf-file-name="2_empowerrd.toml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/case_studies/2_empowerrd.toml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+            <state relative-caret-position="72">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1_wellcome.toml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/case_studies/1_wellcome.toml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -53,7 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/data/help/technology.toml" />
         <option value="$PROJECT_DIR$/data/case_studies/economist.toml" />
         <option value="$PROJECT_DIR$/.gitmodules" />
         <option value="$PROJECT_DIR$/data/case_studies/earthportxx.toml" />
@@ -79,10 +91,6 @@
         <option value="$PROJECT_DIR$/data/help/1_technology.toml" />
         <option value="$PROJECT_DIR$/content/_index.md" />
         <option value="$PROJECT_DIR$/data/case_studies/4_twivel.toml" />
-        <option value="$PROJECT_DIR$/data/case_studies/4_Earthport.toml" />
-        <option value="$PROJECT_DIR$/data/case_studies/3_ikonotv.toml" />
-        <option value="$PROJECT_DIR$/data/case_studies/2_wellcome.toml" />
-        <option value="$PROJECT_DIR$/data/case_studies/1_empowerrd.toml" />
         <option value="$PROJECT_DIR$/layouts/partials/footer.html" />
         <option value="$PROJECT_DIR$/layouts/_default/single.html" />
         <option value="$PROJECT_DIR$/layouts/partials/header.html" />
@@ -104,6 +112,11 @@
         <option value="$PROJECT_DIR$/static/css/typography.css" />
         <option value="$PROJECT_DIR$/data/case_studies/6_deals_platform.toml" />
         <option value="$PROJECT_DIR$/data/case_studies/5_economist.toml" />
+        <option value="$PROJECT_DIR$/data/case_studies/4_Earthport.toml" />
+        <option value="$PROJECT_DIR$/data/case_studies/3_ikonotv.toml" />
+        <option value="$PROJECT_DIR$/data/case_studies/1_empowerrd.toml" />
+        <option value="$PROJECT_DIR$/data/case_studies/2_wellcome.toml" />
+        <option value="$PROJECT_DIR$/data/case_studies/1_wellcome.toml" />
       </list>
     </option>
   </component>
@@ -169,19 +182,6 @@
             <path>
               <item name="njc3" type="b2602c69:ProjectViewProjectNode" />
               <item name="njc3" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-              <item name="partials" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="njc3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="njc3" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-              <item name="partials" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="njc3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="njc3" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -229,11 +229,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/images/cases" />
       <recent name="$PROJECT_DIR$/content/posts/new-site-new-self" />
       <recent name="$PROJECT_DIR$/content/posts/d7-composer" />
       <recent name="$PROJECT_DIR$/content/posts/drupal-8-adoption" />
       <recent name="$PROJECT_DIR$/content/posts/2016-lookahead" />
-      <recent name="$PROJECT_DIR$/content/posts/reflection-first-3-weeks-rails" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/layouts/partials" />
@@ -270,16 +270,15 @@
       <workItem from="1528465303416" duration="32944000" />
       <workItem from="1529009213494" duration="47000" />
       <workItem from="1529051166627" duration="13653000" />
-      <workItem from="1529395608433" duration="4331000" />
+      <workItem from="1529395608433" duration="8200000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75071000" />
+    <option name="totallyTimeSpent" value="78940000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="878" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35693848" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -290,7 +289,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49946752" visible="true" weight="0.56157637" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49946752" weight="0.56157637" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -389,13 +388,6 @@
     <entry file="file://$PROJECT_DIR$/static/images/cases/ikono_live.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/case_studies/3_ikonotv.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/images/cases/espresso.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -406,27 +398,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/case_studies/1_empowerrd.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/case_studies/2_wellcome.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/case_studies/4_Earthport.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -639,8 +610,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data/case_studies/5_economist.toml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/case_studies/4_Earthport.toml">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/case_studies/3_ikonotv.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/case_studies/2_empowerrd.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/case_studies/1_wellcome.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
         </state>
       </provider>
     </entry>
