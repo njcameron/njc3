@@ -3,17 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://neilcameron.me/posts/twivel-winding-down/</loc>
+    <lastmod>2017-11-19T17:02:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neilcameron.me/posts/better_estimates/</loc>
+    <lastmod>2017-01-16T17:02:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neilcameron.me/posts/prod-man-for-big-org/</loc>
+    <lastmod>2017-01-09T17:02:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neilcameron.me/posts/reflection-first-3-weeks-rails/</loc>
+    <lastmod>2016-01-25T17:02:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neilcameron.me/posts/2016-lookahead/</loc>
+    <lastmod>2016-01-20T17:02:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neilcameron.me/posts/d7-composer/</loc>
+    <lastmod>2015-10-09T17:02:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neilcameron.me/posts/drupal-8-adoption/</loc>
+    <lastmod>2015-09-29T17:02:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neilcameron.me/posts/new-site-new-self/</loc>
+    <lastmod>2015-06-20T17:02:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neilcameron.me/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://neilcameron.me/</loc>
+    <lastmod>2017-11-19T17:02:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neilcameron.me/posts/</loc>
+    <lastmod>2017-11-19T17:02:09+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://neilcameron.me/tags/</loc>
     <priority>0</priority>
   </url>
   

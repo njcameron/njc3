@@ -3,7 +3,7 @@ Description = "Tech strategy and development"
 Image = 'well.jpg'
 alt = "An early phial of vaccine."
 Body = """
-The Wellcome Trust is a biomedical research charity with £23bn endowment and is one of the largest non-governmental funders of scientific research in the world.
+The Wellcome Trust is a biomedical research charity with a £23bn endowment and is one of the largest non-governmental funders of scientific research in the world.
 
 Wellcome engaged me to work with them in two capacities. Firstly to work with their tech and product team on maintenance and development of their digital estate including intranet, corporate site and campaign sites. Secondly to create a future technology strategy providing recommendations for platforms and libraries to use to support the Trust over the next 5 - 10 years.
 """

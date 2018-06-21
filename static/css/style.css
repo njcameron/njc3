@@ -161,7 +161,12 @@ a .info-layer {
   line-height: 1.42857143;
   background-color: #fff;
   border: 1px solid var(--light-grey);
-  height: 23em;
+  height: 24em;
+}
+
+.blog-thumbnail-wrapper h3 {
+  margin-top: 0.75em;
+  margin-bottom: 0.75em;
 }
 
 .blog-thumbnail-wrapper-img {
@@ -176,7 +181,7 @@ a .info-layer {
 }
 
 .blog-thumbnail-wrapper h6 {
-  margin: 0;
+  margin-bottom: 0.05em;
 }
 
 #blog .blog-thumbnail-wrapper a.button {

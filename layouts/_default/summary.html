@@ -1,6 +1,6 @@
 <article class="blog-thumbnail-wrapper">
     {{ $resource := .Resources.GetMatch "thumb" }}
-    {{ $image := $resource.Fill "350x220" }}
+    {{ $image := $resource.Fill "480x250" }}
     <div class="blog-thumbnail-wrapper-img">
         <img src="{{ $image.RelPermalink }}" alt="{{ $resource.Title }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
         <div class="info-layer">
@@ -9,8 +9,8 @@
     </div>
     <div class="caption">
         <h3 class="">{{ .Title }}</h3>
-        <h6 class="term">{{ partial "post-tags" . }} // {{ partial "post-date-m-y" . }}</h6>
-        <div class="summary">
+        <h6 class="term">{{ partial "post-tags" . }}</h6>
+        <div class="summary" style="font-weight: 200">
             <p>{{ .Params.summary }}</p>
         </div>
     </div>

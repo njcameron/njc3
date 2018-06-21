@@ -1,14 +1,94 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Neil Cameron on London consultant: rails, agile, drupal, tech, startups.</title>
+    <link>https://neilcameron.me/</link>
+    <description>Recent content in Neil Cameron on London consultant: rails, agile, drupal, tech, startups.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 19 Nov 2017 17:02:09 +0100</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://neilcameron.me/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Twivel: winding down and moving on</title>
+      <link>https://neilcameron.me/posts/twivel-winding-down/</link>
+      <pubDate>Sun, 19 Nov 2017 17:02:09 +0100</pubDate>
+      
+      <guid>https://neilcameron.me/posts/twivel-winding-down/</guid>
+      <description>The Origin Twivel was born out of three converging occurrences: 1) a frustration with crap television but great internet video, 2) the release of the 4th gen Apple TV, 3) an itch to learn a new framework.
+At some point in 2015 we bought a new TV with built in Android and Wi-Fi. This was the first time I had a TV in the living room since leaving home at 18.</description>
+    </item>
+    
+    <item>
+      <title>You guessed it! - how to make better estimates</title>
+      <link>https://neilcameron.me/posts/better_estimates/</link>
+      <pubDate>Mon, 16 Jan 2017 17:02:09 +0100</pubDate>
+      
+      <guid>https://neilcameron.me/posts/better_estimates/</guid>
+      <description>What about the last time you had to “finish up a few emails”, you promised your partner you would be done in half an hour. Forty-five minutes later and you only got through one of the three emails you needed to reply to. And let’s not even start on how long it will take to plan and book your holiday / wedding / house purchase. Estimation, however, is at the core of effective product and project delivery, so the process deserves some serious thought and attention.</description>
+    </item>
+    
+    <item>
+      <title>Three product tactics large co&#39;s can borrow from startups</title>
+      <link>https://neilcameron.me/posts/prod-man-for-big-org/</link>
+      <pubDate>Mon, 09 Jan 2017 17:02:09 +0100</pubDate>
+      
+      <guid>https://neilcameron.me/posts/prod-man-for-big-org/</guid>
+      <description>Product development within startups takes place within a somewhat unique environment. Often time and budget are not only constrained, but the survival of the company hinges on achieving tangible milestones within a specific timeframe and budget. Teams tend to be small, responsive and have the autonomy to use whichever tech stack they think best fits the job.
+This set of constraints and characteristics has led to the emergence of particular practice of product development which I think larger companies can learn from.</description>
+    </item>
+    
+    <item>
+      <title>Reflections on my first three weeks using Rails</title>
+      <link>https://neilcameron.me/posts/reflection-first-3-weeks-rails/</link>
+      <pubDate>Mon, 25 Jan 2016 17:02:09 +0100</pubDate>
+      
+      <guid>https://neilcameron.me/posts/reflection-first-3-weeks-rails/</guid>
+      <description>I first became aware of RoR back in 2006 around the same time I read the brilliant Getting Real from the company previously known as 37 Signals (now Basecamp). At that point I was busy wrapping my head around Drupal 4.7 and building out a social network for language learners known as Huitalk. Since then I have followed its adoption with interest but always been too professionally involved with Drupal to do more than tinker around the edges.</description>
+    </item>
+    
+    <item>
+      <title>2016, A look ahead.</title>
+      <link>https://neilcameron.me/posts/2016-lookahead/</link>
+      <pubDate>Wed, 20 Jan 2016 17:02:09 +0100</pubDate>
+      
+      <guid>https://neilcameron.me/posts/2016-lookahead/</guid>
+      <description>Wait, what just happened?
+2015 was a whirlwind of a year for me, full of change and open opportunities. I started the year spending my remaining time at C&amp;amp;W working on a project with the Daily Telegraph. In March I officially parted ways with C&amp;amp;W which was exciting and emotional in equal measure. We promptly moved all our possessions into storage and set out on a 12 week trip taking in Singapore, Indonesia, New Zealand and culminating in a 4 week stay in LA (my wife&amp;rsquo;s home town) in time for DrupalCon.</description>
+    </item>
+    
+    <item>
+      <title>Managing Drupal 7 dependencies with Composer</title>
+      <link>https://neilcameron.me/posts/d7-composer/</link>
+      <pubDate>Fri, 09 Oct 2015 17:02:09 +0100</pubDate>
+      
+      <guid>https://neilcameron.me/posts/d7-composer/</guid>
+      <description>(Don&amp;rsquo;t want to read? Check the example project on Github)
+Working with Angular JS, Bower and Grunt, and in particular how they work with third party dependencies, has got me thinking about how to manage a drupal codebase.
+Since the SVN days I&amp;rsquo;ve always simply committed the whole docroot into the repo and ensure that the sites/default/files, settings.php and other bits are ignored. There are several benefits to this: it&amp;rsquo;s simple, easy to understand and ensures all contrib modules and libraries &amp;ldquo;just work&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Drupal 8 adoption is going to be very different</title>
+      <link>https://neilcameron.me/posts/drupal-8-adoption/</link>
+      <pubDate>Tue, 29 Sep 2015 17:02:09 +0100</pubDate>
+      
+      <guid>https://neilcameron.me/posts/drupal-8-adoption/</guid>
+      <description>I have been through 3 major Drupal version changes in my professional career and each time there is the inevitable discussion around when Drupal X will be ready to use in production. With Drupal 8 just appearing over the horizon the same conversations are getting repeated in both the drupalconosphere and twittersphere.
+Having built this site on Drupal 8 and listened to different accounts of how D8 has already been used in production, I&amp;rsquo;m starting to form a theory that Drupal 8 adoption will look very different to previous major updates.</description>
+    </item>
+    
+    <item>
+      <title>On launching my new site and new self</title>
+      <link>https://neilcameron.me/posts/new-site-new-self/</link>
+      <pubDate>Sat, 20 Jun 2015 17:02:09 +0100</pubDate>
+      
+      <guid>https://neilcameron.me/posts/new-site-new-self/</guid>
+      <description>Since departing from Cameron &amp;amp; Wilding in March of this year, amongst other things, I&amp;rsquo;ve been working on building out neilcameron.me. What started as a two day project to change some text in an HTML template, rapidly snowballed in to an over-engineered but highly interesting Drupal 8 and Angular JS implementation.
+This website is my new online centre of gravity. For the last five years, my online presence has been inseparable from C&amp;amp;W, so it&amp;rsquo;s a little bit odd and very exciting to have something new.</description>
+    </item>
     
   </channel>
 </rss>

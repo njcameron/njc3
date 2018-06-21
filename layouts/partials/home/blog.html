@@ -5,7 +5,7 @@
   <div class="front-content-wrapper">
     <div id="blog" class="row">
         {{ range .Paginator.Pages }}
-          <div class="col-sm-6 col-md-4 blog-card">
+          <div class="col-sm-6 col-md-6 blog-card">
             {{ .Render "summary" }}
           </div>
         {{ end }}

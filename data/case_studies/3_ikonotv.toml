@@ -2,11 +2,11 @@ Title = "IkonoTV"
 Description = "Tech strategy and development"
 Image = 'ikono_live.jpg'
 alt = "A TV with ikono app showing"
-Body = """IkonoTV is a Berlin based art video company which broadcasts a 24 / 7 stream and provides a large and diverse catalog of on demand content. After six months as a Twivel customer IkonoTV engaged me as an interim CTO to help them with a range of technology opportunites and problems.
+Body = """IkonoTV is a Berlin based art video company which broadcasts a 24 / 7 stream and provides a large and diverse catalog of on demand content. After six months as a Twivel customer IkonoTV engaged me as an interim CTO to help them with a range of technology opportunities and problems.
 
 As part of my work with them I helped migrate the organisation on to Google Apps, assess the SmartTV technology landscape and create a 24 month technology and roadmap.
 
-IkonoTV sponsored the development of a React based web app and payment and subcriptions for Twivel.
+IkonoTV sponsored the development of a React based web app and payments and subscriptions for Twivel.
 """
 Did = """
  * Ran research and vendor selection process for video hosting, transcoding and streaming.

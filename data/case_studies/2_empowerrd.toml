@@ -5,10 +5,10 @@ alt = "A stack of coins"
 Body = """
 EmpowerRD is a London based, VC backed fintech startup which is taking on the R&D tax credit claims industry. Incumbents typically charge more than 20% of the tax credit companies receive and provide a slow, human intensive service. EmpowerRD provide an automated, self-serve platform backed by expert R&D consultants for a fraction of the fee.
 
-I joined the team as CTO and oversaw the development of the core product from idea to launch and beyond. As well as development I implemented a light weight, agile delivery process and recruited a remote team to assist with development."""
+I joined the team as CTO and oversaw the development of the core product from idea to launch and beyond. As well as development I implemented a lightweight, agile delivery process and recruited a remote team to assist with development."""
 Did = """
 * Core product development using Ruby on Rails, Heroku and AWS. Particular attention paid to very high test coverage and security and encryption.
-* Developed product roadmap with non-technical founder to support product, customer and fund raising milestones.
+* Developed product roadmap with non-technical founder to support product, customer and fundraising milestones.
 * Implemented light weight agile process in Jira to support offshore developer.
 * Researched and proposed AI and NLP driven features.
 """
