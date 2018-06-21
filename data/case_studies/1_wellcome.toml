@@ -1,6 +1,7 @@
 Title = "Wellcome Trust"
 Description = "Tech strategy and development"
 Image = 'well.jpg'
+alt = "An early phial of vaccine."
 Body = """
 The Wellcome Trust is a biomedical research charity with £23bn endowment and is one of the largest non-governmental funders of scientific research in the world.
 

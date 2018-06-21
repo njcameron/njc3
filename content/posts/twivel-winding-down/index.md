@@ -12,6 +12,7 @@ standfirst: "It's official: Twivel is over. it's powering down and going into sl
 resources:
 - name: thumb
   src: samuel-zeller-13178.jpg
+  title: "A person walking away"
 ---
 **The Origin**
 Twivel was born out of three converging occurrences: 1) a frustration with crap television but great internet video, 2) the release of the 4th gen Apple TV, 3) an itch to learn a new framework.

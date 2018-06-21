@@ -1,6 +1,7 @@
 Title = "Financial services intranet"
 Description = "Collaborative working tool"
 Image = 'fs_in.jpg'
+alt = "Business card"
 Body = """Architected, project managed and acted as tech lead on five person project over 9 months to develop an advanced intranet for finance professionals to log M&A deals, work collaboratively and identify experts to work on new deals. Project involved data migration, data sanitisation, advanced apache solr and rich javascript interfaces. This project was undertaken as part of a team during my time at Cameron & Wilding."""
 Did = """
 * Apache Solr powered deal finder for $75bn worth of deals.

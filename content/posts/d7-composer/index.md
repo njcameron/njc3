@@ -11,6 +11,7 @@ tag:
 resources:
 - name: thumb
   src: composer.jpg
+  title: "old sheet music"
   
 ---
 (Don't want to read? Check the [example project on Github](https://github.com/njcameron/drupal-composer-template))

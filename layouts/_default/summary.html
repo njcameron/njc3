@@ -2,7 +2,7 @@
     {{ $resource := .Resources.GetMatch "thumb" }}
     {{ $image := $resource.Fill "350x220" }}
     <div class="blog-thumbnail-wrapper-img">
-        <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
+        <img src="{{ $image.RelPermalink }}" alt="{{ $resource.Title }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
         <div class="info-layer">
             <a href="{{ .RelPermalink }}" class="button bold-subtitle">Read</a>
         </div>

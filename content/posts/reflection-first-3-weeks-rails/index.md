@@ -11,6 +11,7 @@ tag:
 resources:
 - name: thumb
   src: ror3.jpg
+  title: "Railway lines going into distance"
 
 ---
 I first became aware of RoR back in 2006 around the same time I read the brilliant [Getting Real](https://gettingreal.37signals.com/) from the company previously known as 37 Signals (now Basecamp). At that point I was busy wrapping my head around Drupal 4.7 and building out a social network for language learners known as Huitalk. Since then I have followed its adoption with interest but always been too professionally involved with Drupal to do more than tinker around the edges.

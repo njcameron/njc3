@@ -1,6 +1,7 @@
 Title = "Economist Espresso"
 Description = "Headless Drupal for iOS and Android"
 Image = 'espresso.jpg'
+alt = "smart phone with Economist Espresso app loaded"
 Body = """I designed and built a publishing platform for the Economist's daily news app, [Espresso](http://www.economist.com/digital). Worked with editorial and technical stakeholders to create user stories, run an agile development process and develop the backend functionality. The CMS integrated with finance APIs to pull in financial data and also acted as the end point for a freestanding app. Used Pantheon and AWS to create a robust infrastructure that support hundreds of thousands of daily downloads. This project was undertaken as part of a team during my time at Cameron & Wilding."""
 Did = """
 * Ran agile process, directly liaising with senior editorial staff and technical product manager.

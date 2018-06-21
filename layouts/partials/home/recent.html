@@ -7,7 +7,7 @@
       {{ range $.Site.Data.case_studies }}
         <div class="col-sm-6 col-md-6 work-item">
           <a data-toggle="modal" data-target="#Modal_{{md5 .Title}}" href="javascript:void(0)">
-            <img src="{{ .Site.BaseURL }}images/cases/{{.Image}}"/>
+            <img src="{{ .Site.BaseURL }}images/cases/{{.Image}}" alt="{{ .alt }}"/>
             <div class="info-layer">
               <h4>{{ .Title }}</h4>
               {{ .Description }}

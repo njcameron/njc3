@@ -11,6 +11,7 @@ tag:
 resources:
 - name: thumb
   src: weighing_scale.jpg
+  title: "Market weighing scale"
   
 ---
 What about the last time you had to “finish up a few emails”, you promised your partner you would be done in half an hour. Forty-five minutes later and you only got through one of the three emails you needed to reply to. And let’s not even start on how long it will take to plan and book your holiday / wedding / house purchase. Estimation, however, is at the core of effective product and project delivery, so the process deserves some serious thought and attention. 

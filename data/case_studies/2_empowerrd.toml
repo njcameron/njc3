@@ -1,6 +1,7 @@
 Title = "EmpowerRD"
 Description = "Core product development"
 Image = 'coins.jpg'
+alt = "A stack of coins"
 Body = """
 EmpowerRD is a London based, VC backed fintech startup which is taking on the R&D tax credit claims industry. Incumbents typically charge more than 20% of the tax credit companies receive and provide a slow, human intensive service. EmpowerRD provide an automated, self-serve platform backed by expert R&D consultants for a fraction of the fee.
 

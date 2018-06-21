@@ -1,7 +1,8 @@
 ---
-Title: this thing
-Location: London
-Date: 20-05-1983
+Title: Neil Cameron
+Description: Technology consultant based in London working with organisations large and small to deliver brilliant products with rails, drupal and agile.
+images:
+- images/me_sq.jpg
 ---
 **Summary**: I work at the intersection of technology, product and delivery to help organisations ship brilliant digital products. When not helping clients I build my own products like Twivel, a video-on-demand platform. I've been building products for the web for 15 years during which I've been CTO at an early stage startup, founded my own SaaS company and co-founded and ran a thriving digital agency.
 

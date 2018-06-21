@@ -11,6 +11,7 @@ tag:
 resources:
 - name: thumb
   src: prod_man_for_small_org.jpg
+  title: "Colorful tiles"
 
 ---
 Product development within startups takes place within a somewhat unique environment. Often time and budget are not only constrained, but the survival of the company hinges on achieving tangible milestones within a specific timeframe and budget. Teams tend to be small, responsive and have the autonomy to use whichever tech stack they think best fits the job.

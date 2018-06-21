@@ -1,7 +1,10 @@
-baseURL = "http://example.org/"
+baseURL = "https://neilcameron.me"
 languageCode = "en-us"
-title = "Neil Cameron"
+title = "London consultant: rails, agile, drupal, tech, startups."
 theme = "bootstrap"
+enableRobotsTXT = true
+googleAnalytics = "UA-62883841-3"
+
 [imaging]
   resampleFilter = "box"
   quality = 90

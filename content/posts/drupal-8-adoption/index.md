@@ -11,6 +11,7 @@ tag:
 resources:
 - name: thumb
   src: kittens.jpg
+  title: "A box of kittens"
   
 ---
 I have been through 3 major Drupal version changes in my professional career and each time there is the inevitable discussion around when Drupal X will be ready to use in production. With Drupal 8 just appearing over the horizon the same conversations are getting repeated in both the drupalconosphere and twittersphere.

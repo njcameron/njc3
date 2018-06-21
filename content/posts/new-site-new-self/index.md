@@ -11,6 +11,7 @@ tag:
 resources:
 - name: thumb
   src: 16180304983_3af5277c09_k.jpg
+  title: "A rocket ready for lift off"
   
 ---
 Since departing from Cameron & Wilding in March of this year, amongst other things, I've been working on building out neilcameron.me. What started as a two day project to change some text in an HTML template, rapidly snowballed in to an over-engineered but highly interesting Drupal 8 and Angular JS implementation.
