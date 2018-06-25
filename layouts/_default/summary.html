@@ -8,7 +8,7 @@
         </div>
     </div>
     <div class="caption">
-        <h3 class="">{{ .Title }}</h3>
+        <h3 class=""><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
         <h6 class="term">{{ partial "post-tags" . }}</h6>
         <div class="summary" style="font-weight: 200">
             <p>{{ .Params.summary }}</p>

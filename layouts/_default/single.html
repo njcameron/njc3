@@ -21,10 +21,10 @@
 <div class="container">
   <div class="row">
     <div class="blog-post-container col-md-9 col-sm-12">
-      <header>
+      <div>
         <h1>{{ .Title | markdownify }}</h1>
         <h5>{{ partial "post-date" . }} // {{ partial "post-tags" . }}</h5>
-      </header>
+      </div>
       <article class="blog-post">
         <div class="undertitle">
           <p>

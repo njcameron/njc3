@@ -67,6 +67,15 @@ blockquote {
   margin: 0 0 20px;
 }
 
+h3 a {
+  color: var(--text-black);
+  text-decoration: none;
+}
+
+h3 a:hover {
+  text-decoration: none;
+}
+
 blockquote p {
   margin-bottom: 0;
 }

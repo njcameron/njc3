@@ -11,7 +11,7 @@ tag:
 resources:
 - name: thumb
   src: bank-phrom-352283-unsplash.jpg
-  title: "A rocket ready for lift off"
+  title: "A modern printing press"
   
 ---
 Once again I find myself between life chapters with a few weeks of downtime to [sharpen the saw](https://www.franklincovey.com/the-7-habits/habit-7.html). I'll post more on the chapter changing later, for now lets look at the web bit.
