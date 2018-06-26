@@ -9,7 +9,7 @@ tag:
 - neilcameron.me
 
 images:
-- bank-phrom-352283-unsplash.jpg
+- /posts/njc-3.0/bank-phrom-352283-unsplash.jpg
 
 resources:
 - name: image
