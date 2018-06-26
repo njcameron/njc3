@@ -9,7 +9,7 @@ tag:
 - "Rails"
 
 resources:
-- name: thumb
+- name: image
   src: ror3.jpg
   title: "Railway lines going into distance"
 

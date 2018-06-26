@@ -3,14 +3,18 @@ title: "Twivel: winding down and moving on"
 date: 2017-11-19T17:02:09+01:00
 draft: false
 summary: "Closing down a startup is equal parts depressing and cathartic."
+disqus_identifier: 
 
 tag: 
 - Twivel
 
 standfirst: "It's official: Twivel is over. it's powering down and going into sleep mode, permanently. In this post I want to document something of what Twivel was, what problems we set out to solve and what we created."
 
+images:
+- samuel-zeller-13178.jpg
+
 resources:
-- name: thumb
+- name: image
   src: samuel-zeller-13178.jpg
   title: "A person walking away"
 ---

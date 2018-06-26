@@ -8,8 +8,11 @@ standfirst: "Estimates are hard to get right. Remember that time you had to clea
 tag: 
 - Agile
 
+images:
+- weighing_scale.jpg
+
 resources:
-- name: thumb
+- name: image
   src: weighing_scale.jpg
   title: "Market weighing scale"
   

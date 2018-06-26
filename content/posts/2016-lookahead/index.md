@@ -10,7 +10,7 @@ tag:
 - Life
 
 resources:
-- name: thumb
+- name: image
   src: 2016.jpg
   title: "A calm sea"
   

@@ -1,5 +1,5 @@
 <article class="blog-thumbnail-wrapper">
-    {{ $resource := .Resources.GetMatch "thumb" }}
+    {{ $resource := .Resources.GetMatch "image" }}
     {{ $image := $resource.Fill "480x250" }}
     <div class="blog-thumbnail-wrapper-img">
         <img src="{{ $image.RelPermalink }}" alt="{{ $resource.Title }}" width="{{ $image.Width }}" height="{{ $image.Height }}">

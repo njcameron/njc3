@@ -9,7 +9,7 @@ tag:
 - Drupal
 
 resources:
-- name: thumb
+- name: image
   src: kittens.jpg
   title: "A box of kittens"
   

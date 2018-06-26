@@ -9,7 +9,7 @@ tag:
 - neilcameron.me
 
 resources:
-- name: thumb
+- name: image
   src: 16180304983_3af5277c09_k.jpg
   title: "A rocket ready for lift off"
   

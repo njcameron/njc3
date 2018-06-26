@@ -9,7 +9,7 @@ tag:
 - Drupal
 
 resources:
-- name: thumb
+- name: image
   src: composer.jpg
   title: "old sheet music"
   

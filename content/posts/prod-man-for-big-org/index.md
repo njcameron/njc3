@@ -8,8 +8,11 @@ standfirst: "I have worked in both large, established companies and small, scrap
 tag: 
 - "Product management"
 
+images:
+- prod_man_for_small_org.jpg
+
 resources:
-- name: thumb
+- name: image
   src: prod_man_for_small_org.jpg
   title: "Colorful tiles"
 
