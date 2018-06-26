@@ -9,7 +9,7 @@ tag:
 - "Product management"
 
 images:
-- prod_man_for_small_org.jpg
+- /posts/prod-man-for-big-org/prod_man_for_small_org.jpg
 
 resources:
 - name: image

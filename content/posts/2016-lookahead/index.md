@@ -5,7 +5,6 @@ draft: false
 summary: "Twivel, getting off the island and (maybe) getting out of London."
 standfirst: "2015 was a literal game changer and 2016 has all the ingredients to be another awesome year, here is a glimpse of what is upcoming in the next ~8310 hours."
 
-
 tag: 
 - Life
 

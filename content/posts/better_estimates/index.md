@@ -9,7 +9,7 @@ tag:
 - Agile
 
 images:
-- weighing_scale.jpg
+-  /posts/better_estimates/weighing_scale.jpg
 
 resources:
 - name: image

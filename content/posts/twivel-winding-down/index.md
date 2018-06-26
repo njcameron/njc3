@@ -11,7 +11,7 @@ tag:
 standfirst: "It's official: Twivel is over. it's powering down and going into sleep mode, permanently. In this post I want to document something of what Twivel was, what problems we set out to solve and what we created."
 
 images:
-- samuel-zeller-13178.jpg
+- posts/twivel-winding-down/samuel-zeller-13178.jpg
 
 resources:
 - name: image
