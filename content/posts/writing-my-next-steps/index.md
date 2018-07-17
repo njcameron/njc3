@@ -1,5 +1,5 @@
 ---
-title: "Writing my next steps"
+title: "Writing my next steps - what I'm doing next"
 date: 2018-07-17T13:02:09+01:00
 draft: false
 summary: "On finding the optimal configuration for work / business / life balance."
