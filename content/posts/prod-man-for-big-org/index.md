@@ -21,7 +21,8 @@ Product development within startups takes place within a somewhat unique environ
 
 This set of constraints and characteristics has led to the emergence of particular practice of product development which I think larger companies can learn from. Here are three product management tactics which company of any size can put to use.
 
-**1\. The Ultra Lean MVP**
+## 1\. The Ultra Lean MVP
+
 Startups typically operate in an extreme time scarce environment. As a result they look for ways to validate new products in the quickest, most efficient way possible. I term this the "ultra lean MVP".
 
 The aim with this tactic is to dramatically reduce the time and cost of validating a new product idea.
@@ -34,7 +35,8 @@ For example:
 *   Use a tool like [Sketch](http://www.sketchapp.com/) to create a set of linked UI mockups, give them to some beta users and observe their reactions to the product.
 *   Manually provide a service that will eventually be replaced by an automated process such as a two-sided marketplace or algorithm.
 
-**2\. Embrace "good enough"**
+## 2\. Embrace "good enough"
+
 Large companies love process and everything that goes along with them like rigorous standards compliance and elegant code.
 
 Startups know that many features will change dramatically or get dropped and that therefore making everything perfect is a waste of precious time.
@@ -50,7 +52,8 @@ Unproven, non-critical features however can be implemented with a two step appro
 
 This approach requires discipline and technically sophisticated leadership. The temptation to do everything "rough and ready" is strong and must be avoided at all costs.
 
-**3\. Listen to customers not HIPPOs**
+## 3\. Listen to customers not HIPPOs
+
 Large companies always have a HIPPO (highest paid person's opinion) and often it belongs to a person who the product team want to keep happy. 
 
 Startups live and die by customer satisfaction. Unless founders have a bad case of "the next Steve Jobs" product decisions tend to be driven by customer demand.

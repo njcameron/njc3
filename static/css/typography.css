@@ -80,8 +80,11 @@ blockquote p {
   margin-bottom: 0;
 }
 
-.blog-post strong {
-  display: block;
+.blog-post h2 {
+  font-size: 1.35em;
+}
+.blog-post h3 {
+  font-size: 1.2em;
 }
 
 .undertitle {

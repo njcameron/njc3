@@ -23,22 +23,25 @@ Much has been written about the difficulties associated with providing engineeri
 
 I have worked with many agile teams in the past and discovered that there are a few fundamental considerations which can help improve estimates, leading to a higher quality life for everyone involved in a project. These fundamentals consist of the a few principles to be aware of and three key factors to consider when estimating.
 
-**The principles**
+## The principles
 
-**1\. Abstract away from time.** 
+### 1\. Abstract away from time.
+
 Talking in terms of hours and days can have a weird impact on estimates. Units of time fuel the inner critic and provide a false sense of accuracy. When estimating a task our inner critic can often hijack the process: _“two days sounds like an awfully long time to build that simple looking widget, perhaps it’s because you’re not a proper developer, I wonder how long you can get away with this...”_ etc. This can lead to developers lowering their estimates to satisfy their inner critic.
 
 > Talking in terms of hours and days can have a weird impact on estimates. Units of time fuel the inner critic and provide a false sense of accuracy.
 
 Instead, I recommend abstracting away from time. Popular methods includes story points, t-shirt sizes (S, M, L, XL) or 1 - 5 scale. These points can be calibrated so an S task represents a quick, known fix that takes less than half a day. An L task could be an API integration which requires comprehensive test coverage, taking 3 - 5 days.
 
-**2\. Complexity increases exponentially not linearly.** 
+### 2\. Complexity increases exponentially not linearly.
+
 Large tasks typically have more unknowns, more moving parts and more dependencies than smaller tasks. We should therefore expect a larger task to be estimated to a larger margin of error than a smaller task. Because of this I like to use story points based on the fibonacci sequence:  0, 1, 2, 3, 5, 8, 13, 21\. This enforces defensive estimates for larger tasks and can often prompt the question: “what can we do to create more certainty around this task?”.
 
-**3\. Iterate and learn.** 
+### 3\. Iterate and learn.
+
 There are some practitioners of agile who hold that there are no inaccurate estimates only different velocities. I take a different view: if a task took longer than historical estimates would imply, then we must be able to learn something new to improve our process. I would encourage teams to discuss this in a non-blaming way in the retrospective. Perhaps there was a dependency that was not met, perhaps requirements changed or perhaps the team were unfamiliar with the technology. Whatever the reason, the team can learn, improve and recognise similar situations in the future.
 
-**The three key considerations for better estimates**
+## The three key considerations for better estimates
 When it comes to making the estimate I find it really useful to think about the task in terms of complexity, uncertainty and effort which combine to give an a more accurate understanding of the size of the task. Let’s breakdown those in more detail:
 
 **1\. Complexity.** A complex task is one which we know and understand all the inputs and expected outputs but we need to create the logic that sits in the middle, something like a recommendation algorithm would be a good example.  The opposite are tasks where minimal creativity needs to be applied, for example implementing a front-end theme may require applying pre-existing CSS classes. Needless to say, the more complex a task, the more time it will require to complete it.
@@ -47,7 +50,8 @@ When it comes to making the estimate I find it really useful to think about the 
 
 **3\. Effort.** Some tasks may not be complex and may have no uncertainties, however, there is still the schlep-factor to consider. Content migrations are often a bit like this. We know exactly the content to be migrated, we know how it will look in the target CMS, the complexity is low because we are using a known framework, however, the developer still needs to map hundreds of fields from old to new.
 
-**Finishing up**
+## Finishing up
+
 Following these guidelines should help make the estimation process less painful and more helpful for the whole project team. To start using them, I recommend you first discuss them your team members with the aim of encouraging “adoption” rather than top down “implementation”. You can then start to use them as a kind of shorthand: _“Can we break down this L task into a series of S’s?”_; _“Jane, you said it was a 5-pointer, have you considered the uncertainty of the task?”_.
 
 Which processes and tips helped your team work better with estimating? Let me know in the comments below.
