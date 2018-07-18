@@ -8,6 +8,9 @@ standfirst: "In the last six months I've come a long way in figuring out how I w
 tag: 
 - Life
 
+images:
+- /posts/writing-my-next-steps/Speech_flower_fragment.jpg
+
 resources:
 - name: image
   src: Speech_flower_fragment.jpg
