@@ -8,6 +8,9 @@ standfirst: "Like many tech folk I spend a lot of time reading and consuming inf
 tag: 
 - Learning
 
+images:
+- /posts/my-2018-newsstack/roman-kraft-260082-unsplash.jpg
+
 resources:
 - name: image
   src: roman-kraft-260082-unsplash.jpg
