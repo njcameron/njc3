@@ -1,5 +1,5 @@
 ---
-title: "What I reading and listening to, my 2018 news stack 🗞"
+title: "What I'm reading and listening to, my 2018 news stack 🗞"
 date: 2018-09-04T11:02:09+01:00
 draft: false
 summary: "A run down of my most important information sources for 2018"
