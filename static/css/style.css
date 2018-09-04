@@ -211,21 +211,26 @@ a .info-layer {
 }
 
 .blog-post-container {
-  margin: -390px auto auto;
-  background-color: #fff;
+  margin: -21.5em auto auto;
+  background-color: rgba(255,255,255,0.5);
   float: none;
   padding: 10px 50px;
+}
+
+.title-date-container {
+  min-height: 10em;
+  margin-bottom: 2.5em;
 }
 
 .blog-post-image {
   height: 800px;
   margin-top: 0;
-  width: auto;
+  width: 100%;
 }
 
 .blog-post-image img,
 .blog-post-image picture {
-  max-width: 100%;
+  width: 100%;
   overflow: hidden;
   margin: auto;
 }
