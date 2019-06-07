@@ -235,8 +235,15 @@ a .info-layer {
   margin: auto;
 }
 
-p img {
+p img,
+figure img{
   max-width: 100%;
+}
+
+figcaption h4 {
+  font-size: 0.8rem;
+  color: var(--mid-grey);
+  font-weight: normal;
 }
 
 .go-back {
