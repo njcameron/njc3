@@ -38,7 +38,7 @@
 #pic-of-neil {
   border-radius: 50%;
   width: 10em;
-  filter: grayscale(100%);
+  /*filter: grayscale(100%);*/
   margin: auto;
 }
 
@@ -242,7 +242,7 @@ figure img{
 
 figcaption h4 {
   font-size: 0.8rem;
-  color: var(--mid-grey);
+  color: var(--mid  -grey);
   font-weight: normal;
 }
 
