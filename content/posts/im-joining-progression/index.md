@@ -1,7 +1,7 @@
 ---
 title: "My Next Big Thing: I'm joining Progression!"
-date: 2019-06-07T13:02:09+01:00
-draft: true
+date: 2019-06-09T13:02:09+01:00
+draft: false
 summary: "On joining Progression as co-founder, meeting Jonny and managing career growth in digital teams."
 standfirst: "Almost a year ago I wrote a post saying that I was on the lookout for my Next Big Thing. Well, I found it!"
 
