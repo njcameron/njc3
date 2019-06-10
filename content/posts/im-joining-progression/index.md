@@ -17,7 +17,6 @@ resources:
   title: "Progression staircase"
   
 ---
-## The Search
 Back in [July 2018](/posts/writing-my-next-steps/) I concluded with *"I’m back in the consulting game while I search for the Next Big Thing".* Here's what happened next.
 
 Things mostly worked out that way, although I quickly found myself back at the [Wellcome Trust](https://medium.com/wellcome-digital) and due a winning combination of interesting work, great colleagues and an outrageously good office canteen, I ended up staying there until the end of March 2019. I was lucky enough to be mostly working 3 days a week, which gave me some time for tinkering and looking for what to do next.
