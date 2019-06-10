@@ -26,15 +26,15 @@ One of things I got more involved with is a group and a movement called Indie Ha
 
 >I really enjoy working with other people to solve an interesting problem, regardless of whether the problem is initially mine or someone else's.
 
-As you'd imagine the Indie London community has an active Slack group. One of the popular channels is "trades", a place where you can post what you're looking for and what you're offering. Something I learnt from time spent workingon  Ikono.tv and EmpowerRD was that I really enjoy working with other people to solve an interesting problem, regardless of whether the problem is initially mine or someone else's. So I thought I'd take a punt and see if there was anyone out there that wanted to work together.
+As you'd imagine the Indie London community has an active Slack group. One of the popular channels is "trades", a place where you can post what you're looking for and what you're offering. Something I learnt from time spent working on  Ikono.tv and EmpowerRD was that I really enjoy working with other people to solve an interesting problem, regardless of whether the problem is initially mine or someone else's. So I thought I'd take a punt and see if there was anyone out there that wanted to work together.
 
 Then this happened:
 
 ![Neil meets Jonny](/posts/im-joining-progression/neil-met-jonny.png)
 
-When I took a look at what Jonny was working on, I realised that it was the same [Progression](https://www.progressionapp.com) as [Progression.fyi](http://progression.fyi) which I'd heard mentioned at a Wellcome digital all-hands meeting. The site, collection of public career frameworks from well-respected tech companies, intrigued me because as a consultant you never have a 1-1 or a framework for benchmarking yourself.
+When I took a look at what Jonny was working on, I realised that it was the same [Progression](https://www.progressionapp.com) as [Progression.fyi](http://progression.fyi) which I'd heard mentioned at a Wellcome digital all-hands meeting. The site, a collection of public career frameworks from well-respected tech companies, intrigued me because as a consultant you never have a 1-1 or a framework for benchmarking yourself.
 
-Just before Christmas 2018 we met for a couple of beers, talked about what we've been working on I got a chance to hear a bit more about the background of Progression. Over the next few weeks we figured out a way we could explore working together and begun a 3 month trial period working together 2 days per week. During that time we hashed out the initial data model and built what became the core of the product. More importantly, we got the chance to get to know each other better and understand how we work together. 
+Just before Christmas 2018 we met for a couple of beers, and talked about what we've been working on I got a chance to hear a bit more about the background of Progression. Over the next few weeks we figured out a way we could explore working together and begun a 3 month trial period working together 2 days per week. During that time we hashed out the initial data model and built what became the core of the product. More importantly, we got the chance to get to know each other better and understand how we work together. 
 
 We had plenty of catch-up points during those 3 months and both felt it was working out really well.Most importantly we established that we were totally aligned on our reasons for building a company and the kind of company we want to build. 
 
