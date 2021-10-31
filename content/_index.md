@@ -8,9 +8,9 @@ Hi! I'm Neil, co-founder and CTO of [Progression](https://progressionapp.com). W
 
 I love building companies and products and have been fortunate enough to be able to make a career out of it.
 
-I met my co-founder [Jonny](https://www.jonnyburch.com/) at the end of 2018. I was looking for my next big thing and he was looking to validate a new product idea. After three months of building the core of the product together and more importantly, testing the chemistry, we set up as co-founders. Since then we've closed a pre-seed with [Connect Ventures](https://www.connectventures.co/) and [Village Global](https://www.villageglobal.vc/), gained 100+ customers and built out our core team.
+I met my co-founder [Jonny](https://www.jonnyburch.com/) at the end of 2018. I was looking for my next big thing and he was looking to validate a new product idea. After three months of building the core of the product together and more importantly testing the chemistry, we set up as co-founders. Since then we've closed a pre-seed with [Connect Ventures](https://www.connectventures.co/) and [Village Global](https://www.villageglobal.vc/), gained 100+ customers and built out our core team.
 
-I occasionally angel invest, something I'd like to do a lot more of in the future. I'm currently backing [Comma](https://usecomma.com/), [Lumio](https://lumio-app.com/) and [Clipper Automotive](https://www.clipper.cab/)
+I occasionally angel invest, something I'd like to do a lot more of in the future. I'm currently backing [Comma](https://usecomma.com/), [Lumio](https://lumio-app.com/) and [Clipper Automotive](https://www.clipper.cab/).
 
 Before Progression I did a whole mix of things.
 
