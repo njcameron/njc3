@@ -1,6 +1,6 @@
 baseURL = "https://neilcameron.me"
 languageCode = "en-gb"
-title = "Co-founder & CTO of Progression, occasional angel"
+title = "The website of Neil Cameron"
 theme = "bootstrap"
 enableRobotsTXT = true
 googleAnalytics = "UA-62883841-3"

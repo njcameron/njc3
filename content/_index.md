@@ -1,14 +1,13 @@
 ---
 Title: Neil Cameron
-Description: Co-founder & CTO of Progression, occasional angel
+Description: The website of Neil Cameron.
 images:
 - images/me_jump.jpg
 ---
-Hi! I'm Neil, co-founder and CTO of [Progression](https://progressionapp.com). We help organisations to retain and grow their most important people by providing clear information and data around what they need to do to progress in their careers.
+Hi! I'm Neil, founder of [ResponseHub](https://responsehub.ai). I'm on a mission to give back time to early stage CTOs. On average they spend 6% of their time each month filling in security questionnaires, ResponseHub uses AI and workflow automation to bring this down to minutes each month.
 
-I love building companies and products and have been fortunate enough to be able to make a career out of it.
 
-I met my co-founder [Jonny](https://www.jonnyburch.com/) at the end of 2018. I was looking for my next big thing and he was looking to validate a new product idea. After three months of building the core of the product together and more importantly testing the chemistry, we set up as co-founders. Since then we've closed a pre-seed with [Connect Ventures](https://www.connectventures.co/) and [Village Global](https://www.villageglobal.vc/), gained 100+ customers and built out our core team.
+Prior to this I was co-founder and CTO of [Progression](https://progressionapp.com). We helped organisations to retain and grow their most important people by providing clear information and data around what they need to do to progress in their careers. We raised $5.6m from VCs like [Connect](https://www.connectventures.co/) and [LocalGlobe](https://www.phoenixcourt.vc/localglobe). Progression was [acquired](https://finance.yahoo.com/news/careerminds-acquires-progression-enhance-ai-130000819.html) by Careerminds in Q4 2024.
 
 I occasionally angel invest, something I'd like to do a lot more of in the future. I'm currently backing [Comma](https://usecomma.com/), [Lumio](https://lumio-app.com/) and [Clipper Automotive](https://www.clipper.cab/).
 
